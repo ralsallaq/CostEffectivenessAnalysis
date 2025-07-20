@@ -25,5 +25,7 @@ The economically rational alternatives are
 ```
 
 Note1 here that when the supplied column names contains spaces or special characters (e.g. ({\+>..etc)) use single quotation around them.
+
 Note2 make sure that costs do not have commas that is use 5000 instead of 5,000 in the TSV file
+
 The output of the code gives the economically rational alternatives and their incremental cost-effectiveness ratio (ICER) as well the delta-effect and delta-cost. 
