@@ -1,0 +1,11 @@
+Testing and treatment strategy	Cost{$}	Effectiveness{QALYs gained}
+baseline(no testing)	5018	26.8666
+A	6833	27.0200
+B	7980	27.0450
+C	6923	27.0200
+D	8000	27.0322
+E	6850	27.0180
+F	7280	27.0350
+G	7280	27.0280
+H	7308	27.0355
+I	7934	27.0444
